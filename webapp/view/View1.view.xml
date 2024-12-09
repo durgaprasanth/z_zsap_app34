@@ -1,6 +1,6 @@
 <mvc:View controllerName="zsample.controller.View1"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
-    <Page id="page" title="Transport2">
+    <Page id="page" title="Transport3">
     </Page>
 </mvc:View>
